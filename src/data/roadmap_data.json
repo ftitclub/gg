@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "formate":"alpha",
+    "image": "assets/images/bg/roadmap21.png",
+    "date": "August 10, 2022",
+    "title": "Creative Arts Set to follow",
+    "description": "Vivamus volutpat condimentum volutpat. Nuncorn pon ultricies velit sed ipsum malesuada, at consectetur elita dignissim. Donec ut purus suscipit, pulvinar felis utold ullamcorper magna."
+  },
+  {
+    "id": 2,
+    "formate":"beta",
+    "image": "assets/images/bg/roadmap22.png",
+    "date": "June 15, 2022",
+    "title": "Creative Characters plan",
+    "description": "Vivamus volutpat condimentum volutpat. Nuncorn pon ultricies velit sed ipsum malesuada, at consectetur elita dignissim. Donec ut purus suscipit, pulvinar felis utold ullamcorper magna."
+  },
+  {
+    "id": 3,
+    "formate":"alpha",
+    "image": "assets/images/bg/roadmap23.png",
+    "date": "Feb 22, 2022",
+    "title": "New NFT Character Set",
+    "description": "Vivamus volutpat condimentum volutpat. Nuncorn pon ultricies velit sed ipsum malesuada, at consectetur elita dignissim. Donec ut purus suscipit, pulvinar felis utold ullamcorper magna."
+  },
+  {
+    "id": 4,
+    "formate":"beta",
+    "image": "assets/images/bg/roadmap21.png",
+    "date": "Jan 05, 2022",
+    "title": "Creative Arts Set to follow",
+    "description": "Vivamus volutpat condimentum volutpat. Nuncorn pon ultricies velit sed ipsum malesuada, at consectetur elita dignissim. Donec ut purus suscipit, pulvinar felis utold ullamcorper magna."
+  }
+]
